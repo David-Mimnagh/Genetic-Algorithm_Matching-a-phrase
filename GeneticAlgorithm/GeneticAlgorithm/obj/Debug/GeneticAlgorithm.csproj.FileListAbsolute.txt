@@ -1,0 +1,6 @@
+c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache
+c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
