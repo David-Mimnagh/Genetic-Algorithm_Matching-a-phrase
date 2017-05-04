@@ -4,3 +4,9 @@ c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\Ge
 c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
 c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
 c:\users\david mimnagh\documents\visual studio 2013\Projects\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\David Mimnagh\Documents\GitHub\Genetic-Algorithm_Matching-a-phrase\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe.config
+C:\Users\David Mimnagh\Documents\GitHub\Genetic-Algorithm_Matching-a-phrase\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.exe
+C:\Users\David Mimnagh\Documents\GitHub\Genetic-Algorithm_Matching-a-phrase\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.pdb
+C:\Users\David Mimnagh\Documents\GitHub\Genetic-Algorithm_Matching-a-phrase\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.exe
+C:\Users\David Mimnagh\Documents\GitHub\Genetic-Algorithm_Matching-a-phrase\GeneticAlgorithm\GeneticAlgorithm\bin\Debug\GeneticAlgorithm.pdb
+C:\Users\David Mimnagh\Documents\GitHub\Genetic-Algorithm_Matching-a-phrase\GeneticAlgorithm\GeneticAlgorithm\obj\Debug\GeneticAlgorithm.csprojResolveAssemblyReference.cache

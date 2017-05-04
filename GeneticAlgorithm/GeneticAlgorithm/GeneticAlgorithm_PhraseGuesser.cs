@@ -22,7 +22,7 @@ namespace GeneticAlgorithm
 
         static char newRandomChar()
         {
-            string possChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ .";
+            string possChars = "abcdefghijklmnopqrstuvwxyzABCDEFGHIJKLMNOPQRSTUVWXYZ ,.!?#1234567890";
             List<char> characters = possChars.ToCharArray().ToList();
 
             return characters[rng.Next(characters.Count)];
@@ -30,13 +30,11 @@ namespace GeneticAlgorithm
 
         static void NaturalSelection(List<Element> population)
         {
-            for ( var i = 0; i < population.Count; i++ )
+            //Take the best two from the population
+            population = population.OrderByDescending(x => x.Fitness).ToList();
+            for ( int i = 0; i < 2; i++ )
             {
-                int number = (int)Math.Floor(population[i].Fitness * 100);  // Arbitrary multiplier, we can also use monte carlo method
-                for ( var j = 0; j < number; j++ )
-                {              // and pick two random numbers
-                    MatingPool.Add(population[i]);
-                }
+                MatingPool.Add(population[i]);
             }
         }
 
@@ -119,7 +117,7 @@ namespace GeneticAlgorithm
 
         static void Main(string[] args)
         {
-            PhraseToGuess = "David Richmond Mimnagh";
+            PhraseToGuess = "If you can do Remote Desktop, it is not a routing issue.  Packets are making the trip there an back.";
             int popSize = 570;//((PhraseToGuess.Length * 3) * 100);
             MutationRate = 0.01;
 
